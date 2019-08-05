@@ -52,3 +52,7 @@ CONFIG_PLATFORM_I386_PC = n
 CONFIG_PLATFORM_ARM_RPI = n
 CONFIG_PLATFORM_ARM_RPI3 = y
 ```
+------------------------------------
+lsusb
+
+sudo usb_modeswitch -KW -v 0bda -p 1a2b
